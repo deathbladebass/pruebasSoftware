@@ -1,8 +1,14 @@
 .main{
     width: 960px;
+    margin: 100px;
 }
 
 img{
     width: 400px;
     float: left;
+}
+
+body {
+	font-family: Arial;
+	background-color:teal;
 }
