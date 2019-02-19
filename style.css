@@ -12,3 +12,8 @@ body {
 	font-family: Arial;
 	background-color:teal;
 }
+
+img {
+	border-radius:50px;
+	margin: 15px;
+}
